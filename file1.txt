@@ -1,1 +1,2 @@
-"Hello Naveen" 
+echo "Hello Naveen"
+echo "How are You"
